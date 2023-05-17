@@ -1,0 +1,4 @@
+﻿  Praktzavd.cpp
+D:\Praktzavd\Praktzavd\Praktzavd.cpp(10,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Praktzavd\Praktzavd\Praktzavd.cpp(11,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Praktzavd.vcxproj -> D:\Praktzavd\x64\Debug\Praktzavd.exe
